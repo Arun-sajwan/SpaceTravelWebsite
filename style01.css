@@ -1,0 +1,16 @@
+body{
+    background-image: url("assets/home/background-home-desktop.jpg");
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+
+   
+    
+    
+}
+.icon{ height: 10rem;width: 10rem;}
+
+  div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .nav-link{color: aliceblue;}

@@ -1,0 +1,23 @@
+body{
+    background-image: url("assets/home/background-home-tablet.jpg");
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+
+    
+    
+}
+
+img{
+  width: 90px;
+  height: 90px;
+  margin: 30px;
+}
+
+
+  div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+nav{
+  color: aliceblue;
+}
